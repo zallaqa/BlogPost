@@ -1,0 +1,17 @@
+.Sadax_card {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: grid;
+    padding: 5%;
+}
+
+.social_media {
+    display: flex;
+    padding-top: 20%;
+}

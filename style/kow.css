@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+ul {
+    color: blue;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: green;
+}
+
+footer {
+    color: indigo;
+}
+
+.kow_card {
+    color: blue;
+}
+.Labo_card {
+    color: crimson;
+}
