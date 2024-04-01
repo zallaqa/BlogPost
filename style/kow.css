@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(255, 179, 0);
+}
+
+ul {
+    color: rgb(48, 131, 180);
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: rgb(232, 191, 8);
+}
+
+footer {
+    color: rgb(196, 24, 139);
+}
+
+.kow_card {
+    color: rgb(17, 177, 167);
+}
+.Labo_card {
+    color: rgb(214, 8, 8);
+}
